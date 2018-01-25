@@ -1,8 +1,8 @@
 {
   "type": "service_account",
-  "project_id": "acoustic-realm-176205",
-  "private_key_id": "4806dced8f35a5903f7ed84a26342f2d10e7b7ca",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCTOdzQEuR+N3Tk\n7VFVJe4aaBFv0P97Q+jwVAwEEBcL3304hh5Z8bxOaTHCS2wFCD0o4OjmzxzNqYN6\nZr6XsawMZ8LP4wKGTM4geOvrkJSwBeBUMsBynZKsIBop1W0lFYidpw/m1beOyCT7\nPecxG8R8ShaIN0XeqH0JlBIb+ivy/6Q0TKlJoM56xVbE2LQT/cNw94Xw/LJeeH2c\nYHZrjtGxHYMN44yVYB51sB/YjZN0y9yNgtzJ2jFLfNwBBRlaeD4yTZn41OqU/zbk\n+I88BrR8YJS67EeHLG0o6vAwAcMw2dle052TGKWWIiOzoiD6wXqStcReqXGpImwT\nFDnsk7y5AgMBAAECggEADtKI5c17Ie53Jzux4DDaCqBO3hs0d45wH68UiR2uFlDN\nQIE3Qc61ys6qNvGlOdH5J1oSdLdmItoVzb9Vobvecp7JNSkZplgJ+ii2duBW6exj\niBKWf8uXulrei3bsfsru1tF8pzy91uMVXxKdybrOEsXaRCNNdmPv98SHuLeckGGv\nkHvJlh1qUHGz5Y33PtL7ndMunut3EeUoSMGaGlqkXOMZoSAJ1ME5r99+Igj59Lu6\n794cYnoOzNbI84NPlyxhk12rpSGQF0P6N3cqzo2ifm5DSUiS4KaKPwxz4WTDxm6w\nlk9H0IOwL/+XZJGEOOG4Eb2nFLQNebGdtz+Mwy6IEQKBgQDQMdWZgkFExviFysi/\nnI3g/UkU+FqAQ1GbxXq8V1w/7HaVdCrhLOExLRvlS0zN8PyhgqNkk2sCAnmvqR0t\n5FKtyjEix2DsAdzRdeSn47HS3kj8oseIlIlgzlozQj5PsWPfH4GEQe5HxoZ7YE2c\nzc+vdkmpjLzq5harY2zSJfJaUQKBgQC1CCZn3GbyRpNdvSr9sbzzgbDW1+62YH8A\niGCuYzitOhpFkrYu65SfYZZvZ40AhRZlUJ8uAZ8dZyVpZD+U9cCoayDB3o5YRlbH\nwKWxzb+/B9fZS0f0WcNCnE/l6UWPw9NshlFweOGDgHAQ+rZNcaegWLPK61UABK9s\nrCHfqku56QKBgHDL/zEbXCdaMb2zH06JEGlscRL2d3n0fxuJQ7UVE7rib2ELvkuf\nWCafjPSO9n7BaO5MbCAKqrg9BRbB5jg98vmLiVGRehaD79JgMFEx0N8xZZPS0Y5T\nA5c6Va5d3oqozjZNyIsSeXnTunrPs10YOMSUrtY4lQYjQPb8eDHnM0XxAoGAHpNi\n0TXzmUX8S9/QbAriDArCkHbmFZ2UtcVS9wFBKFjg6RFPfftCHe1AmE5YDVdtIe2N\nBRs3AaNTOUq6RnF/ebKmVLg/OH+g1poeIjrLAPvVJBlH7OhgR1bZU86jdhWwFutU\nw/dWt3ww8V02/zuMAVQaAdLfh2JDMsqb6gf8REkCgYAfXNyj+xuGO/vSVBiIczAc\nn8zjEW3cPmdCEvJbpRrzXDmhAhzduArxl1HRP5Ek2dXUIdZ+iRoZ2eXN1q0Mv3b7\nVzNsjTbATnQjoWP0ySaPrLQ2BZo4m+6V/Gp5wtiR6W8pOI55x3qKsrO86jsWSir9\nqvMZjb7oggVL3GxEYupGgw==\n-----END PRIVATE KEY-----\n",
+  "project_id": "Use your project id here.",
+  "private_key_id": "Use your own stuff here",
+  "private_key": "use your own private key",
   "client_email": "logdata@acoustic-realm-176205.iam.gserviceaccount.com",
   "client_id": "109976394205243560565",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
